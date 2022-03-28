@@ -6,7 +6,7 @@ authors = ["tMinamiii <otherthan.new@gmail.com>"]
 
 [tool.poetry.dependencies]
 python = "^3.7"
-jupyterlab = "^2.2.0"
+jupyterlab = "^2.2.10"
 
 [tool.poetry.dev-dependencies]
 black = "^19.10b0"
